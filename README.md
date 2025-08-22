@@ -1,2 +1,2 @@
-# Aventurine-OS-Kernel
-Operating System Kernel Development Project - Aventurine's OS System
+# HaruAventure-OS-Kernel
+Operating System Kernel Development Project - HaruAventure's OS System
